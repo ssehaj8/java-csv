@@ -18,7 +18,7 @@ public class ReadAndPrint {
                 System.out.println("Name: "+columns[0]);
                 System.out.println("Age: "+columns[0]);
                 System.out.println("Marks: "+columns[0]);
-                System.out.println(" ");
+                System.out.println(" "); //give space
             }
 
         }
