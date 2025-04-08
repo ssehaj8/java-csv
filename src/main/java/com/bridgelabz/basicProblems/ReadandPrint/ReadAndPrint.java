@@ -29,38 +29,39 @@ public class ReadAndPrint {
 }
 /*
 ID: 101
-Name: 101
-Age: 101
-Marks: 101
+Name: Sehaj
+Age: 22
+Marks: 98
 
 ID: 102
-Name: 102
-Age: 102
-Marks: 102
+Name: Bhawishya
+Age: 21
+Marks: 92
 
 ID: 103
-Name: 103
-Age: 103
-Marks: 103
+Name: Sanya
+Age: 19
+Marks: 78
 
 ID: 104
-Name: 104
-Age: 104
-Marks: 104
+Name: Dikshit
+Age: 22
+Marks: 88
 
 ID: 105
-Name: 105
-Age: 105
-Marks: 105
+Name: Aakanksh
+Age: 20
+Marks: 91
 
 ID: 106
-Name: 106
-Age: 106
-Marks: 106
+Name: Dhruv
+Age:  20
+Marks: 78
 
 ID: 107
-Name: 107
-Age: 107
-Marks: 107
+Name: Aryav
+Age: 21
+Marks: 81
 
- */
+
+*/
