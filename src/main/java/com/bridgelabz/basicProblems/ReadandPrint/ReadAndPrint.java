@@ -15,9 +15,9 @@ public class ReadAndPrint {
                 String[] columns= line.split(",");
                 
                 System.out.println("ID: "+columns[0]);
-                System.out.println("Name: "+columns[0]);
-                System.out.println("Age: "+columns[0]);
-                System.out.println("Marks: "+columns[0]);
+                System.out.println("Name: "+columns[1]);
+                System.out.println("Age: "+columns[2]);
+                System.out.println("Marks: "+columns[3]);
                 System.out.println(" "); //give space
             }
 
